@@ -1,5 +1,5 @@
 local fs = {
-  dude = 'dude'
+  ['dude'] = 'dude'
 }
 
 fs.f = function(word)
