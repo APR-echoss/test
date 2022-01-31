@@ -1,6 +1,4 @@
-local fs = {
-  ['dude'] = 'dude'
-}
+local fs = {}
 
 fs.f = function(word)
   print(word)
